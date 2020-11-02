@@ -1,5 +1,6 @@
 <?php
 
+//trait
 trait Hewan
 {
     public $nama,
